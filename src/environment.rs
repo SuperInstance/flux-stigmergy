@@ -1,4 +1,4 @@
-use crate::trace::{Trace, TraceType, Waypoint};
+use crate::trace::{Trace, TraceType};
 
 /// Aggregate statistics about the shared environment.
 #[derive(Debug, Default)]
